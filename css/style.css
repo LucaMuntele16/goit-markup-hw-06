@@ -543,6 +543,8 @@ textarea {
 .our-team {
   padding: 120px 0;
   background-color: #f4f4fd;
+
+  margin: auto;
 }
 .our-team-list {
   display: flex;
